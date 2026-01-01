@@ -14,12 +14,13 @@ This dashboard visualizes key sales metrics for the second quarter (Q2), providi
 - Which products contribute most to overall sales quantity?
 - Were there specific high or low sales points in the quarter?
 
-## Dashboard
--  <a href = "https://github.com/KajilumAnalyst/Sales-Performance-Analysis/blob/main/dash.png">Dashboard</a>
-
+- Dashboard Interaction <a href = "https://github.com/KajilumAnalyst/Sales-Performance-Analysis/blob/main/dash.png">View Dashboard</a>
+  
 ## Processes
 - Cleaned and prepared raw sales transaction data using SQL to ensure accuracy and structure.
 - Engineered key metrics, including weekly sales totals, product-level quantity aggregates, and payment method frequencies.
 - Analyzed the processed time-series data to identify weekly patterns, peaks, and troughs in sales performance.
 - Selected appropriate chart types (line, bar, pie) to effectively represent trends, comparisons, and part-to-whole relationships.
-- Integrated individual charts into a cohesive, single-view layout using Bigquery visualization tool <a href = "https://github.com/KajilumAnalyst/Sales-Performance-Analysis/blob/main/dash.png">View Dashboard</a>
+- Integrated individual charts into a cohesive, single-view layout using Bigquery visualization tool
+
+## Dashboard
