@@ -24,3 +24,6 @@ This dashboard visualizes key sales metrics for the second quarter (Q2), providi
 - Integrated individual charts into a cohesive, single-view layout using Bigquery visualization tool
 
 ## Dashboard
+<img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/93c76357-eec2-4452-a756-eae271fce480" />
+
+
