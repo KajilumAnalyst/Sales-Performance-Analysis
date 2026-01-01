@@ -1,2 +1,5 @@
-# Sales-Performance-Analysis
-Q2 Sales Performance Dashboard – Analyzed sales trends, product performance, and payment method distribution for May 2024. Key insights include tracking daily sales quantity, identifying top-selling products like Golden Gate Ginger, and visualizing payment preferences.
+# Sales Performance Analysis Dashboard
+
+## Project Objectives
+
+This dashboard visualizes key sales metrics for the second quarter (Q2), providing actionable insights into sales trends, popular products, and customer payment behaviors. The goal is to enable data-driven decision-making by tracking performance, identifying top-selling products, and understanding purchasing patterns.
