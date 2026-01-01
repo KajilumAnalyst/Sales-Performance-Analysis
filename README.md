@@ -1,5 +1,18 @@
 # Sales Performance Analysis Dashboard
 
 ## Project Objectives
-
 This dashboard visualizes key sales metrics for the second quarter (Q2), providing actionable insights into sales trends, popular products, and customer payment behaviors. The goal is to enable data-driven decision-making by tracking performance, identifying top-selling products, and understanding purchasing patterns.
+
+## Dataset Used
+- <a href= "https://github.com/KajilumAnalyst/Sales-Performance-Analysis/blob/main/sales_transactions-2026-01-01.csv">Dataset Used</a>
+
+## Key Business Questions (KPIs)
+- How did sales volume trend throughout Q2?
+- What is the most popular product by sales volume?
+- How do customers prefer to pay?
+- What does the payment method distribution look like? 
+- Which products contribute most to overall sales quantity?
+- Were there specific high or low sales points in the quarter?
+
+## Dashboard
+-  <a href = "https://github.com/KajilumAnalyst/Sales-Performance-Analysis/blob/main/dash.png">Dashboard</a>
