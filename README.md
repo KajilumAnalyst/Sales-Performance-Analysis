@@ -26,4 +26,8 @@ This dashboard visualizes key sales metrics for the second quarter (Q2), providi
 ## Dashboard
 <img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/93c76357-eec2-4452-a756-eae271fce480" />
 
-
+## Project Insights
+- Volatile Weekly Sales: The quarter started strong but showed significant week-to-week fluctuations.
+- Dominant Top Product: Golden Gate Ginger is the clear sales leader with 3870 quantity sold. 
+- Tlght Mid-Tier Competition: The next five products have very similar sales volumes.
+- Payment Preference: Credit card usage dominates, with Mastercard asthe leading network.
