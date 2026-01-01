@@ -32,10 +32,11 @@ This dashboard visualizes key sales metrics for the second quarter (Q2), providi
 - Tlght Mid-Tier Competition: The next five products have very similar sales volumes.
 - Payment Preference: Credit card usage dominates, with Mastercard asthe leading network.
 
-Final Conclusion & Recommendations
+## Conclusion & Recommendations
 The Q2 sales performance indicates a healthy product portfolio with a strong market favorite in Golden Gate Ginger. However, the observed weekly volatility in sales volume presents a key opportunity for stabilization.
 
 Recommendations:
 
 - Investigate Weekly Dips by conducting a deep-dive into the low-sales weeks (belo 1.2K units) to identify root causes such as inventory, marketing silence, or external competition.
 - Leveraging Top Product by capitalizing on the popularity of Golden Gate Ginger through featured promotions  deals to help uplift sales during typically slower weeks.
+- Implement targeted marketing strategies for products like "Orchard Oasis" (3.59K units) to narrow the gap with top sellers.
